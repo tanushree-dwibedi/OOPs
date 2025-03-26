@@ -1,0 +1,2 @@
+Bike b;
+    b.sound();
